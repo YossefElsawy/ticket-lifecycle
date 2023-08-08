@@ -30,6 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 <h3>Stage 1: Intake</h3>
 <p>
+  
 ![image](https://github.com/YossefElsawy/ticket-lifecycle/assets/141590348/f5617616-c65b-49a6-aa55-f567f8739ee4)
 ![image](https://github.com/YossefElsawy/ticket-lifecycle/assets/141590348/aff43996-fe39-4fae-9ea1-6939002f8065)
 
