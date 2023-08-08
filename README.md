@@ -33,7 +33,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   
 ![image](https://github.com/YossefElsawy/ticket-lifecycle/assets/141590348/f5617616-c65b-49a6-aa55-f567f8739ee4)
 ![image](https://github.com/YossefElsawy/ticket-lifecycle/assets/141590348/aff43996-fe39-4fae-9ea1-6939002f8065)
-
 </p>
 <p>
 This is where you can create a ticket. As you can see the user enters an email address along with their name. They then pick the topic and enter in a subject line and summary.
@@ -41,25 +40,36 @@ This is where you can create a ticket. As you can see the user enters an email a
 <br />
 <h3>Stage 2: Assignment</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/YossefElsawy/ticket-lifecycle/assets/141590348/3da5fcf5-8b8f-4568-b87c-63bfd530be32)
+![image](https://github.com/YossefElsawy/ticket-lifecycle/assets/141590348/4db3227c-cee7-4052-b895-d776a24b9e0e)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When an agent logs in they will see all the tickets (in the first picture).
+
+The second photo shows the more detailed information. On this page, you can change the priority levels, change the department if needed, assign to any agent, and change the SLA level / severity.
 </p>
 <br />
 <h3>Stage 3: Working the Issue</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/YossefElsawy/ticket-lifecycle/assets/141590348/284c6d56-9a8e-40b6-9771-1bb29a4e6e21)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the ticket is assigned, the appropriate staff will work on the issue whether providing an immediate solution or necessitating extra help. The ticket has a thread that is utilized for comments in addition to updates.
 </p>
 <br />
 <h3>Stage 4: Resolution</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/YossefElsawy/ticket-lifecycle/assets/141590348/13d5e19a-f1cb-4933-a579-dab8c24a34ab)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After a solution is met, the ticket can be resolved. Dependent on access restrictions, an agent may or may not be able to close the ticket. Tickets that are closed can be found in a "Closed" tab that IT professionals can utilize to cross reference and gain knowledge for current tickets / problems. 
+</p>
+<br />
+<p>
+This concludes the osTicket lab. I hope this gave you insight on the 4 steps from creating a Virtual Machine to Resolving tickets on the osTicket system. Thank you for following along!
 </p>
 <br />
