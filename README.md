@@ -35,6 +35,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/YossefElsawy/ticket-lifecycle/assets/141590348/aff43996-fe39-4fae-9ea1-6939002f8065)
 </p>
 <p>
+
 This is where you can create a ticket. As you can see the user enters an email address along with their name. They then pick the topic and enter in a subject line and summary.
 </p>
 <br />
@@ -46,6 +47,7 @@ This is where you can create a ticket. As you can see the user enters an email a
 
 </p>
 <p>
+
 When an agent logs in they will see all the tickets (in the first picture).
 
 The second photo shows the more detailed information. On this page, you can change the priority levels, change the department if needed, assign to any agent, and change the SLA level / severity.
@@ -57,6 +59,7 @@ The second photo shows the more detailed information. On this page, you can chan
 ![image](https://github.com/YossefElsawy/ticket-lifecycle/assets/141590348/284c6d56-9a8e-40b6-9771-1bb29a4e6e21)
 </p>
 <p>
+
 After the ticket is assigned, the appropriate staff will work on the issue whether providing an immediate solution or necessitating extra help. The ticket has a thread that is utilized for comments in addition to updates.
 </p>
 <br />
@@ -66,6 +69,7 @@ After the ticket is assigned, the appropriate staff will work on the issue wheth
 ![image](https://github.com/YossefElsawy/ticket-lifecycle/assets/141590348/13d5e19a-f1cb-4933-a579-dab8c24a34ab)
 </p>
 <p>
+
 After a solution is met, the ticket can be resolved. Dependent on access restrictions, an agent may or may not be able to close the ticket. Tickets that are closed can be found in a "Closed" tab that IT professionals can utilize to cross reference and gain knowledge for current tickets / problems. 
 </p>
 <br />
